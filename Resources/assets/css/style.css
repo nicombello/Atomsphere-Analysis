@@ -1,0 +1,33 @@
+.img-thumbnail{
+    padding-top: 150px;
+    margin:5px;
+    border: solid black;
+  }
+  
+  .col-md-12{
+    background-color: gray;
+    padding-top: 20px;
+    padding-bottom:40px;
+  }
+  .navbar{
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right:40px;
+    background-color:rgb(44, 46, 46);
+  }
+  
+  .nav-item.dropdown.show {
+    background-color: #ddd;
+  }
+  
+  .dropdown-menu {
+    margin: 0;
+  }
+  
+  
+  .content {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    overflow: hidden;
+  }
+   
